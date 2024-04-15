@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![background](./background.png)
 <!--
 
 **Here are some ideas to get you started:**
