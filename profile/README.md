@@ -15,7 +15,7 @@
 
 |                   [유수빈](https://github.com/JudithHopps)                    |                                  [백승헌]()                                   |                                  [조현수]()                                   |
 | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/113181934?v=4" width="300"> | <img src="https://avatars.githubusercontent.com/u/113181934?v=4" width="300"> | <img src="https://avatars.githubusercontent.com/u/113181934?v=4" width="300"> |
+| <img src="https://avatars.githubusercontent.com/u/113181934?v=4" width="300"> | <img src="https://img.etoday.co.kr/pto_db/2023/04/20230424155422_1877003_586_788.jpg" width="300"> | <img src="https://avatars.githubusercontent.com/u/113181934?v=4" width="300"> |
 |                                      FE                                       |                                      BE                                       |                                      FE                                       |
 
 </div>
@@ -50,6 +50,13 @@
 <img src="https://img.shields.io/badge/recoil-3578EC?style=for-the-badge&amp;logo=recoil&amp;logoColor=white" height="35">
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&amp;logo=eslint&amp;logoColor=white" height="35">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="35"> 
+</div>
+
+#### **Back-end**
+
+<div align=left>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35">
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="35">
 </div>
 
 #### **Common**
